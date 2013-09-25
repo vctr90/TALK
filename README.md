@@ -3,7 +3,7 @@ TALK
 
 **TALK** is a simple FOSS node.js app for creating private chats.
 
-You can test it live here: <http://talk.nodester.com/>.
+You can test it live here: <http://talk.sadasant.com/>.
 
 Features
 --------
